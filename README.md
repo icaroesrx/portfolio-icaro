@@ -1,4 +1,4 @@
-# Portfolio of Ícaro Eduardo Da Silva Ramos
+# Portfolio of Ícaro Eduardo
 
 A single-page portfolio with an interactive 3D hero: an iridescent torus knot and a particle field that follow the pointer and the scroll.
 
